@@ -9,7 +9,7 @@
 第三节　[大数据及其作用与价值](#jump3) </br>
 
 ## **第一节　数据、信息与知识**
-<span id="jump1">here</span>
+<span id="jump1">快速定位锚点</span>
 
 ---
 ### **数据和信息的概念**
@@ -53,7 +53,7 @@
 </br>
 
 ## **第二节　数字化与编码**
-<span id="jump2">here</span>
+<span id="jump2">快速定位锚点</span>
 
 ---
 
